@@ -296,7 +296,7 @@ a {
 
 /* Page À propos*/
 
-#propos, #collabyu{
+#propos, #collabyu, #acad{
     width: 90%;
     height: auto;
     margin: 3em 5% 0 5%;
@@ -428,7 +428,49 @@ button {
     font-family: 'Ubuntu Bold', arial;
     font-style: normal;
     font-weight: bold;
+}
 
+/*Partie Projets */
+
+#projetsp {
+    height: 100%;
+    position: relative;
+}
+
+#collabyu img {
+    margin: 0 0 0 43%;
+    position: absolute;
+    width: 53%;
+}
+
+#projetsp p{
+    width: 35%;
+    position: absolute;
+}
+
+#projetsp button>p {
+    margin: 4% 4% 0 2%;
+    padding: 0;
+    width: 42%;
+    font-family: 'Ubuntu Bold', arial;
+    font-style: normal;
+    font-weight: bold;
+}
+
+
+#projetsp button{
+    margin: 35em 0 12em 4%;
+}
+
+#acad img {
+    margin: 0 0 0 47%;
+    position: absolute;
+    width: 43%;
+}
+
+#acad {
+    margin-bottom: 7%;
+    margin-top: 7%;
 }
 
 
