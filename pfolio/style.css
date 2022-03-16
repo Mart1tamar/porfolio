@@ -4,6 +4,7 @@
 html{
     margin: 0;
     font-size: 100%;
+    overflow-x: hidden;
 }
 
 body{
@@ -405,7 +406,11 @@ p{
     text-align: center;
     margin: 20% 12% 0 12%;
     padding: 0;
-    color: #000;
+}
+
+#projetsa a, #persoa a, #proposa a{
+    margin-top: 0;
+    position: absolute;
 }
 
 button {
