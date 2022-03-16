@@ -277,6 +277,7 @@ a {
     font-family: 'World of Water', arial;
     font-size: 1.75em;
     padding: 0;
+    padding-left: 7%;
     color: #000;
     text-align: center;
 }
@@ -295,7 +296,7 @@ a {
 
 /* Page À propos*/
 
-#propos{
+#propos, #collabyu{
     width: 90%;
     height: auto;
     margin: 3em 5% 0 5%;
@@ -402,7 +403,7 @@ p{
     position: absolute;
     font-size: 2em;
     text-align: center;
-    margin: 22% 12% 0 12%;
+    margin: 20% 12% 0 12%;
     padding: 0;
     color: #000;
 }
